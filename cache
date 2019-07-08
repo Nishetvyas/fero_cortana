@@ -1,0 +1,11 @@
+AirportCodeRegex->Entity
+[a-z]{3} -> Regrex
+
+Hotel ->Entity
+
+what are the reviews of Hotel?
+show me the reviews of Hotel
+show me reviews of Hotel
+find reviews of Hotel
+can you show me the reviews of Hotel
+can i see the reviews of Hotel ?
